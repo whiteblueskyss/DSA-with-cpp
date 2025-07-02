@@ -1,3 +1,17 @@
 Problems link:
 
 https://github.com/Rahat-Khan-Pathan/Samsung-Bangladesh-Pre-Employment-Coding-Test-Preparation
+
+
+OFFLINE INTERVIEW EXPERIENCE
+1 explain DSU.
+2 how to find strongly connected components using DSU.
+3 time complexities of every possible thing.
+4 how to update parent when we add new components and what is the time complexity in both cases...if we maintain parent array and if we donot maintain parent array.
+5 path compression
+6 kosaraju algorithm
+7 significance of union by size
+And every possible thing regarding DSU.
+
+P.S-> for interview i can say it's indepth discussionregarding DSU covering every minute details possible.
+
